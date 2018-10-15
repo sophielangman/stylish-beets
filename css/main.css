@@ -24,11 +24,13 @@ h2 {
 nav ol {
   font-family: 'PT Sans', sans-serif;
   list-style-type: none;
-  text-decoration: none;
   font-size: 1.125rem;
-  color: #8f2440;
 }
 
+nav a {
+  color: #8f2440;
+  text-decoration: none;
+}
 figcaption {
   font-style: italic;
   text-align: center;
@@ -36,7 +38,7 @@ figcaption {
 }
 
 aside {
-  font-style: bold;
+  font-weight: bold;
   font-size: 1.125rem;
 }
 
