@@ -2,9 +2,8 @@ html {
   font-family: 'PT Serif', serif;
   background-color: #c9b5ab;
   line-height: 1.5;
-  font-size: 0.8rem;
   font-weight: normal;
-  width: 30%;
+  width: 40%;
 }
 
 img {
@@ -50,6 +49,8 @@ aside {
 
 blockquote {
   font-size: 1.125rem;
+  font-style: italic;
+
 }
 
 .common {
