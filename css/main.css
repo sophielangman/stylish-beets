@@ -1,9 +1,8 @@
 html {
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   background-color: #c9b5ab;
   line-height: 1.5;
   font-weight: normal;
-  width: 40%;
 }
 
 img {
@@ -11,7 +10,7 @@ img {
 }
 
 h1 , h2 {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   color: #3f1622;
   font-size: 1.5rem;
 }
@@ -21,7 +20,7 @@ h2 {
 }
 
 nav ol {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   list-style-type: none;
   font-size: 1.125rem;
 }
