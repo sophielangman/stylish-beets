@@ -8,6 +8,7 @@ html {
 img {
   width: 100%;
 }
+
 h1 , h2 {
   font-family: PT sans, sans-serif;
   color: #3f1622;
@@ -21,6 +22,7 @@ h2 {
 nav ol {
   font-family: PT sans, sans-serif;
   list-style-type: none;
+  text-decoration: none;
   font-size: 1.125rem;
   color: #8f2440;
 }
@@ -28,15 +30,16 @@ nav ol {
 figcaption {
   font-style: italic;
   text-align: center;
+  font-size: 0.8rem;
 }
 
 aside {
   font-style: bold;
-  font-size: 1.5rem;
+  font-size: 1.125rem;
 }
 
 blockquote {
-  font-size: 1.5rem;
+  font-size: 1.125rem;
 }
 
 .common {
