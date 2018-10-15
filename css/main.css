@@ -13,6 +13,13 @@ h1 , h2 {
 h2 {
   font-size: 1.125rem;
 }
-nav {
 
+nav ol {
+  list-style-type: none;
+  font-size: 1.125rem;
+  color: #8f2440;
+}
+
+.tags {
+  list-style-type: disc;
 }
