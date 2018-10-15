@@ -9,7 +9,7 @@ img {
   width: 100%;
 }
 
-h1 , h2 {
+h1, h2 {
   font-family: "PT Sans", sans-serif;
   color: #3f1622;
   font-size: 1.5rem;
@@ -57,4 +57,9 @@ blockquote {
 }
 .tags {
   list-style-type: circle;
+}
+
+footer a {
+  color: #8f2440;
+  text-decoration: none;
 }
