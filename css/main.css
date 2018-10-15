@@ -1,0 +1,18 @@
+html {
+  font-family : PT serif, serif;
+  background-color: #c9b5ab;
+  font-size: 0.8rem;
+}
+
+h1 , h2 {
+  font-family : PT sans, sans-serif;
+  color : #3f1622;
+  font-size: 1.5rem;
+}
+
+h2 {
+  font-size: 1.125rem;
+}
+nav {
+
+}
