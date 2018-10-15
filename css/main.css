@@ -1,12 +1,16 @@
 html {
-  font-family : PT serif, serif;
+  font-family: PT serif, serif;
   background-color: #c9b5ab;
   font-size: 0.8rem;
+  width: 25%;
 }
 
+img {
+  width: 100%;
+}
 h1 , h2 {
-  font-family : PT sans, sans-serif;
-  color : #3f1622;
+  font-family: PT sans, sans-serif;
+  color: #3f1622;
   font-size: 1.5rem;
 }
 
@@ -15,10 +19,20 @@ h2 {
 }
 
 nav ol {
-  font-family : PT sans, sans-serif;
+  font-family: PT sans, sans-serif;
   list-style-type: none;
   font-size: 1.125rem;
   color: #8f2440;
+}
+
+figcaption {
+  font-style: italic;
+  text-align: center;
+}
+
+aside {
+  font-style: bold;
+  font-size: 1.5rem;
 }
 
 blockquote {
